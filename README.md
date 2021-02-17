@@ -1,3 +1,3 @@
 # TensorFlow
 
-Respository where I learn and practice the basics of TensorFlow
+Respository where I learn and practice ML/DS/TensorFlow
